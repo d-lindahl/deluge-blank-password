@@ -1,4 +1,4 @@
-# deluge-blank-password
+# deluge-skip-login
 Small modification to https://docs.linuxserver.io/images/docker-deluge
 
 I'm using Deluge behind oauth2 proxy so I don't need the separate password. The idea is to set a blank password in the web UI. 
